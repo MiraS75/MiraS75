@@ -8,7 +8,7 @@
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
-## Projects
+# Projects
 
 #	Confluence 
 Проект: Курсовая 1  и 2
@@ -52,7 +52,7 @@ passw:   mira123456789
 https://mirasuleymanyanqa.atlassian.net/wiki/spaces/Report/pages/edit-v2/5046336
 
 
-## Information
+# Information
 
 - 👀 I’m interested in  the goals of my life
 - 🌱 I’m currently learning as a test engineer
