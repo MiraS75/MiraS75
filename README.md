@@ -10,43 +10,43 @@
 
 # Projects
 
-#	Confluence 
+##	Confluence 
 Проект: Курсовая 1  и 2
 https://mirasuleymanyanqa.atlassian.net/wiki/spaces/~62a04e94d442e6006841b923/pages/1343489/1+2
 log:        missmira.75@mail.ru
 passw:   mira12345
 
-#	Qase.io
+##	Qase.io
 Проект - Курсовая, 2  курс
 https://app.qase.io/project/KRS
 log:        missmira.75@mail.ru
 passw:  mira12345
 
-#	Sitechko
+##	Sitechko
 login:      missmira.75@mail.ru
 passw:    miraastghik
 Чек-лист: Операции с личными событиями
 https://chlist.sitechco.ru/project/36853/checklist/1415322/details
 
- #	Jira
+ ##	Jira
 Проект - Курсовая, 1 курс
 log:        missmira.75@mail.ru
 passw:   mira12345
 https://mirasuleymanyanqa.atlassian.net/jira/software/c/projects/RX1/issues
 
 
- #	Miro
+##	Miro
 https://miro.com/app/board/uXjVPvHfQeI=/?share_link_id=601532403675
 
- #	Board -  Курсовая работа 
+##	Board -  Курсовая работа 
 https://mirasuleymanyanqa.atlassian.net/wiki/spaces/~62a04e94d442e6006841b923/pages/1343489/1-
 
 
- #	Тест-план в Confluence
+##	Тест-план в Confluence
 log:        missmira.75@mail.ru
 passw:   mira123456789 
 
- #	Отчет о тестировании итогового проекта  в Confluence
+##	Отчет о тестировании итогового проекта  в Confluence
 log:        missmira.75@mail.ru
 passw:   mira123456789 
 https://mirasuleymanyanqa.atlassian.net/wiki/spaces/Report/pages/edit-v2/5046336
