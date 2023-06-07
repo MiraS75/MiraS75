@@ -1,3 +1,5 @@
+QA engineer
+
 - 👋 Hi, I’m Mira 
 - 👀 I’m interested in  the goals of my life
 - 🌱 I’m currently learning as a test engineer
